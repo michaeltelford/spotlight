@@ -1,0 +1,7 @@
+TODO:
+-----
+
+Move scrollbars to self.resultsLayout.
+Test search durations for various search param combinations.
+Add search pref dialog.
+Set tooltips for the necessary widgets - QWidget.setToolTip("tooltip")
